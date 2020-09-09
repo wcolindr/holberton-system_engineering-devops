@@ -1,1 +1,1 @@
-# holberton-system_engineering-devops
+Resources about Shell
