@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${D2B[10]}
+echo 'obase=10; BINARY' | bc
