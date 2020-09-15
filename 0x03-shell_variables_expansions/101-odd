@@ -1,2 +1,2 @@
 #!/bin/bash
-... | while read l1; do read l2; echo "$l1 $l2"; done
+xargs -n 2
